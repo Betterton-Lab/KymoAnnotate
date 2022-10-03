@@ -24,7 +24,7 @@ git clone https://github.com/saadjansari/KymoAnnotate.git
 ```
 
 
-## Using BboxDistances
+## Using KymoAnnotate
 
 To run KymoAnnotate, double-click on `./KymoAnnotate.mlapp`
 
